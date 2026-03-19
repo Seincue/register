@@ -4,10 +4,8 @@
     "email": "chokoko.yannyeinsan@gmail.com"
   },
   "records": {
-    "NS": [
-      "kai.ns.cloudflare.com",
-      "maeve.ns.cloudflare.com"
-    ]
+    "CNAME": "index-html-4pg.pages.dev"
   }
 }
+
 
